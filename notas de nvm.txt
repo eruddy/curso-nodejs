@@ -1,0 +1,52 @@
+https://github.com/coreybutler/nvm-windows/releases
+
+Comandos Instalacion de NVM 
+
+nvm --version
+
+nvm list available 
+
+nvm list 
+
+nvm install 18.18.0
+
+nvm use 
+
+nvm current 
+nvm uninstall
+
+
+
+
+LINUX-- ver archivo word
+
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+
+nvm --version
+
+nvm ls-remote
+
+nvm ls
+
+nvm install 18.18.0
+
+nvm use
+
+nvm current
+nvm uninstall 18.18.0
+
+nvm alias default node
+nvm alias default 18.18.0
+
+
+
+node
+REPL  Read Eval Print Loop
+console.log("Hola, mundo desde Node.js");
+
+
+
+
+
+
